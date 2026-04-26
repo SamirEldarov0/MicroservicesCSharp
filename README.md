@@ -19,7 +19,7 @@ Key architectural patterns implemented:
 * Event-driven Architecture using RabbitMQ
 * Containerization with Docker
 * Container Orchestration with Kubernetes
-
+* 
 ---
 
 # Services
